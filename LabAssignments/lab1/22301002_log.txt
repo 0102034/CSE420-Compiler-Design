@@ -1,0 +1,4 @@
+Line no 0: Token <ID> Lexeme int found
+
+Error at line 0: syntax error
+Total lines: 0
